@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/DevAkshat21/product-preview-card-component-main/tree/main)
-- Live Site URL: [Add live site URL here](https://devakshat21.github.io/product-preview-card-component-main/)
+- Solution URL: [Repo](https://github.com/DevAkshat21/product-preview-card-component-main/tree/main)
+- Live Site URL: [Live Site](https://devakshat21.github.io/product-preview-card-component-main/)
 
 ## My process
 
